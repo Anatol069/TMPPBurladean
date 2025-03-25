@@ -1,0 +1,14 @@
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.exe
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.deps.json
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.dll
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.pdb
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.dll
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.pdb
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+D:\Universitate\Anul 3\laburi\TMPP\Singleton\Singleton\Singleton\obj\Debug\net8.0\ref\Singleton.dll

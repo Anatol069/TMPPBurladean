@@ -1,0 +1,14 @@
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\bin\Debug\net8.0\Builder.exe
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\bin\Debug\net8.0\Builder.deps.json
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\bin\Debug\net8.0\Builder.runtimeconfig.json
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\bin\Debug\net8.0\Builder.dll
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\bin\Debug\net8.0\Builder.pdb
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\obj\Debug\net8.0\Builder.dll
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\obj\Debug\net8.0\refint\Builder.dll
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\obj\Debug\net8.0\Builder.pdb
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\obj\Debug\net8.0\Builder.genruntimeconfig.cache
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Builder\Builder\obj\Debug\net8.0\ref\Builder.dll

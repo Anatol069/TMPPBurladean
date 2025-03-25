@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\abstract factory\\abstractfactory\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\abstract factory\\abstractfactory\\abstractfactory\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\abstract factory\\abstractfactory\\abstractfactory\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\abstract factory\\abstractfactory\\abstractfactory\\sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\abstract factory\\abstractfactory\\abstractfactory\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\abstract factory\\abstractfactory\\abstractfactory\\icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\abstract factory\\abstractfactory\\abstractfactory\\carclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\carclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\abstract factory\\abstractfactory\\abstractfactory\\sportscarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\sportscarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\abstract factory\\abstractfactory\\abstractfactory\\suvfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\suvfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\abstract factory\\abstractfactory\\abstractfactory\\sedanfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF459A8-FADE-4B0B-9075-88D46701BF74}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\sedanfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarClient.cs",
+              "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\CarClient.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\CarClient.cs",
+              "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\CarClient.cs",
+              "RelativeToolTip": "AbstractFactory\\CarClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:21:40.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SportsCarFactory.cs",
+              "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\SportsCarFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\SportsCarFactory.cs",
+              "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\SportsCarFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\SportsCarFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:20:20.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SUVFactory.cs",
+              "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\SUVFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\SUVFactory.cs",
+              "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\SUVFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\SUVFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:19:37.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SedanFactory.cs",
+              "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\SedanFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\SedanFactory.cs",
+              "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\SedanFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\SedanFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:18:38.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICarFactory.cs",
+              "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\ICarFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\ICarFactory.cs",
+              "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\ICarFactory.cs",
+              "RelativeToolTip": "AbstractFactory\\ICarFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:18:00.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SportsCar.cs",
+              "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\SportsCar.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\SportsCar.cs",
+              "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\SportsCar.cs",
+              "RelativeToolTip": "AbstractFactory\\SportsCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:17:24.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SUV.cs",
+              "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\SUV.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\SUV.cs",
+              "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\SUV.cs",
+              "RelativeToolTip": "AbstractFactory\\SUV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:16:40.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sedan.cs",
+              "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\Sedan.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Sedan.cs",
+              "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\Sedan.cs",
+              "RelativeToolTip": "AbstractFactory\\Sedan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:16:13.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\ICar.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\ICar.cs",
+              "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\ICar.cs",
+              "RelativeToolTip": "AbstractFactory\\ICar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:15:25.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
+              "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Abstract Factory\\AbstractFactory\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "AbstractFactory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:12:57.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

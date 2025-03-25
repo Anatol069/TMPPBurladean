@@ -1,0 +1,14 @@
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\bin\Debug\net8.0\Prototype.exe
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\bin\Debug\net8.0\Prototype.deps.json
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\bin\Debug\net8.0\Prototype.dll
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\bin\Debug\net8.0\Prototype.pdb
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.dll
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.pdb
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+D:\Universitate\Anul 3\laburi\TMPP\Prototype\Prototype\Prototype\obj\Debug\net8.0\ref\Prototype.dll

@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{583E40B3-9732-47F1-97AE-6C7B7649CB2B}|Builder\\Builder.csproj|solutionrelative:builder\\automobilebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{583E40B3-9732-47F1-97AE-6C7B7649CB2B}|Builder\\Builder.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\prototype\\builder\\builder\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{583E40B3-9732-47F1-97AE-6C7B7649CB2B}|Builder\\Builder.csproj|solutionrelative:builder\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{583E40B3-9732-47F1-97AE-6C7B7649CB2B}|Builder\\Builder.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\prototype\\builder\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{583E40B3-9732-47F1-97AE-6C7B7649CB2B}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583E40B3-9732-47F1-97AE-6C7B7649CB2B}|Builder\\Builder.csproj|d:\\universitate\\anul 3\\laburi\\tmpp\\prototype\\builder\\builder\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583E40B3-9732-47F1-97AE-6C7B7649CB2B}|Builder\\Builder.csproj|solutionrelative:builder\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Builder\\Director.cs",
               "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Prototype\\Builder\\Builder\\Director.cs",
               "RelativeToolTip": "Builder\\Director.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T08:49:34.015Z",
               "EditorCaption": ""
@@ -51,25 +51,23 @@
               "RelativeToolTip": "Builder\\AutomobileBuilder.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAwwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:48:47.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T08:48:47.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Automobile.cs",
               "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Prototype\\Builder\\Builder\\Automobile.cs",
               "RelativeDocumentMoniker": "Builder\\Automobile.cs",
               "ToolTip": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Prototype\\Builder\\Builder\\Automobile.cs",
               "RelativeToolTip": "Builder\\Automobile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:48:00.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T08:48:00.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Universitate\\Anul 3\\laburi\\TMPP\\Prototype\\Builder\\Builder\\Program.cs",
               "RelativeDocumentMoniker": "Builder\\Program.cs",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Builder\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T08:47:09.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T08:47:09.549Z"
             }
           ]
         }

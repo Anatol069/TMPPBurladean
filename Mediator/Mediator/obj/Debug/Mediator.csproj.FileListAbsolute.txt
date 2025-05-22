@@ -1,0 +1,7 @@
+D:\Anul-3\Sem 6\TMPP\lab3\Mediator\Mediator\bin\Debug\Mediator.exe.config
+D:\Anul-3\Sem 6\TMPP\lab3\Mediator\Mediator\bin\Debug\Mediator.exe
+D:\Anul-3\Sem 6\TMPP\lab3\Mediator\Mediator\bin\Debug\Mediator.pdb
+D:\Anul-3\Sem 6\TMPP\lab3\Mediator\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+D:\Anul-3\Sem 6\TMPP\lab3\Mediator\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+D:\Anul-3\Sem 6\TMPP\lab3\Mediator\Mediator\obj\Debug\Mediator.exe
+D:\Anul-3\Sem 6\TMPP\lab3\Mediator\Mediator\obj\Debug\Mediator.pdb

@@ -1,0 +1,7 @@
+D:\Anul-3\Sem 6\TMPP\lab2\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\Anul-3\Sem 6\TMPP\lab2\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Anul-3\Sem 6\TMPP\lab2\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Anul-3\Sem 6\TMPP\lab2\Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+D:\Anul-3\Sem 6\TMPP\lab2\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Anul-3\Sem 6\TMPP\lab2\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Anul-3\Sem 6\TMPP\lab2\Adapter\Adapter\obj\Debug\Adapter.pdb

@@ -1,0 +1,7 @@
+D:\Anul-3\Sem 6\TMPP\lab2\Proxy\Proxy\Proxy\bin\Debug\Proxy.exe.config
+D:\Anul-3\Sem 6\TMPP\lab2\Proxy\Proxy\Proxy\bin\Debug\Proxy.exe
+D:\Anul-3\Sem 6\TMPP\lab2\Proxy\Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\Anul-3\Sem 6\TMPP\lab2\Proxy\Proxy\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+D:\Anul-3\Sem 6\TMPP\lab2\Proxy\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\Anul-3\Sem 6\TMPP\lab2\Proxy\Proxy\Proxy\obj\Debug\Proxy.exe
+D:\Anul-3\Sem 6\TMPP\lab2\Proxy\Proxy\Proxy\obj\Debug\Proxy.pdb

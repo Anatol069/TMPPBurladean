@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\bin\Debug\net6.0\Visitor.exe
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\bin\Debug\net6.0\Visitor.deps.json
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\bin\Debug\net6.0\Visitor.runtimeconfig.json
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\bin\Debug\net6.0\Visitor.dll
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\bin\Debug\net6.0\Visitor.pdb
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\obj\Debug\net6.0\Visitor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\obj\Debug\net6.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\obj\Debug\net6.0\Visitor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\obj\Debug\net6.0\Visitor.AssemblyInfo.cs
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\obj\Debug\net6.0\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\obj\Debug\net6.0\Visitor.dll
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\obj\Debug\net6.0\refint\Visitor.dll
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\obj\Debug\net6.0\Visitor.pdb
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\obj\Debug\net6.0\Visitor.genruntimeconfig.cache
+C:\Users\User\Desktop\UNIVER\ANUL 3 + SEMESTRUL 2\TMPP\lab3\Visitor\Visitor\obj\Debug\net6.0\ref\Visitor.dll
